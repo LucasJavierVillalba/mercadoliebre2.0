@@ -82,8 +82,14 @@ header div.burger-menu {
     width: 17px;
     padding: 7px;
     margin: 25px auto 0;
-   
+    /* top right-left bottom */
+    /* top right bottom left */
+    /* 0 15px 5px 7px */
+}
 
+
+/*secciones*/ 
+/*producto*/
 
 footer {
     padding: 50px 10px 10px;
@@ -101,4 +107,4 @@ footer article i {
     color: var(--celeste);
    margin-bottom: 10px;
    
-}}
+}
